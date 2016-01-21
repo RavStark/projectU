@@ -27,3 +27,12 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+
+#Unreal folders
+/Binaries
+
+/DerivedDataCache
+
+/Intermediate
+
+/Saved 
